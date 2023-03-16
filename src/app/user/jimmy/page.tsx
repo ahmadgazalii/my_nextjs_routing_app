@@ -1,5 +1,5 @@
 export default ()=>{
     return(
-        <div>hello world</div>
+        <div >hello jan </div>
     )
 }
